@@ -11,3 +11,9 @@ docker tag 7e81cc0b3ac8 asia-northeast1-docker.pkg.dev/fork-shuhei-cfipsearch-sa
 ※ TAG はなければlatase
 
 docker push asia-northeast1-docker.pkg.dev/fork-shuhei-cfipsearch-sandbox/lockylinux8container/rockylinux8container
+
+
+
+https://qiita.com/massie_g/items/5a9ce514eaa7c460b5e3
+
+Cloud Buildじゃないとダメ？
