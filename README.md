@@ -21,3 +21,6 @@ Cloud Buildじゃないとダメ？
 
 https://www.engilaboo.com/google-cloudrun-deploy/
 ポート 80番に書き換える必要がある
+
+https://www.engilaboo.com/google-cloudrun-deploy/
+PORT環境変数を使った方がよい
